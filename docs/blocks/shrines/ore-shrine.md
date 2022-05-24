@@ -5,10 +5,10 @@ Ore Shrine
 |---|---|
 | Consumes | Earth |
 | Range | 24x24 from the shrine down to bedrock |
-| Periode | every 10 seconds |
+| Activation time | every 10 seconds |
 | Upgrade slots | 5 |
 
-The Ore Shrine excavates ores underneath it and replace it with stone.
+The Ore Shrine excavates ores underneath it and replaces it with stone.
 
 ### Upgrades
 * __Acceleration Shrine Upgrade__
